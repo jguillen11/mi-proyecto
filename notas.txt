@@ -1,2 +1,2 @@
 
-Estoy editando el archivo desde GitHub.
+Estoy editando el archivo desde github
